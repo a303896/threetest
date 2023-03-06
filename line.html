@@ -1,0 +1,33 @@
+<html>
+  <script type="module">
+    import * as THREE from './build/three.module.js';
+    
+    //创建场景
+    const scene = new THREE.Scene();
+    //创建摄像头
+    const camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 1, 500);
+    camera.position.set(0, 0, 100);
+    camera.lookAt(0, 0, 0);
+    //创建渲染器
+    const renderer = new THREE.WebGLRenderer();
+    //设置渲染器尺寸
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    //将渲染器的dom元素添加进HTML
+    document.body.appendChild(renderer.domElement);
+    //创建线条材质
+    const material = new THREE.LineBasicMaterial({ color: 0x0000ff });
+    //设置一些顶点
+    const points = [];
+    points.push(new THREE.Vector3(-10, 0, 0));
+    points.push(new THREE.Vector3(0, 10, 0));
+    points.push(new THREE.Vector3(10, 0, 0));
+    //创建带有上述顶点的几何体
+    const geometry = new THREE.BufferGeometry().setFromPoints(points);
+    //生成线条
+    const line = new THREE.Line(geometry, material);
+    //将线条加入场景
+    scene.add(line);
+    //渲染场景
+    renderer.render(scene, camera);
+  </script>
+</html>
