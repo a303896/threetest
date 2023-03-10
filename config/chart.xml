@@ -1,0 +1,2197 @@
+<Screen PageNum="1" PageHeight="3000" PageWidth="2160" Name="党上7级" ModifyTime="2011-08-25 17:25:54">
+    <PagePara ID="1" Type="1" Name="党上七级电站主接线图" BackColor="0,0,0" ElementNum="15" StateComptNum="43" ValueComptNum="46" ButtonNum="0" InvisibleBtnNum="0" ArguNum="0">
+        <GraphPara TextNum="56" ArcNum="0" RectNum="2" CircleNum="0" LineNum="70" PictureNum="0">
+            <TextPara>
+                <Text StartPnt="150,150" EndPnt="400,210" Length="0" Context="肃七线" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="50,230" EndPnt="130,290" Length="0" Context="Ua:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="50,310" EndPnt="130,370" Length="0" Context="Ia:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="50,390" EndPnt="130,450" Length="0" Context="P:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="50,470" EndPnt="130,530" Length="0" Context="Q:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="50,550" EndPnt="130,610" Length="0" Context="COS:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="840,150" EndPnt="1000,210" Length="0" Context="党六线" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="700,230" EndPnt="820,290" Length="0" Context="Ua:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="700,310" EndPnt="820,370" Length="0" Context="Ia:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="700,390" EndPnt="820,450" Length="0" Context="P:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="700,470" EndPnt="820,530" Length="0" Context="Q:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="700,550" EndPnt="820,610" Length="0" Context="COS:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1530,150" EndPnt="1700,210" Length="0" Context="党二线" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,230" EndPnt="1510,290" Length="0" Context="Ua:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,310" EndPnt="1510,370" Length="0" Context="Ia:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,390" EndPnt="1510,450" Length="0" Context="P:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,470" EndPnt="1510,530" Length="0" Context="Q:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,550" EndPnt="1510,610" Length="0" Context="COS:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1530,1050" EndPnt="1830,1110" Length="0" Context="主变高" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,1130" EndPnt="1510,1190" Length="0" Context="Ia:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,1210" EndPnt="1510,1270" Length="0" Context="P:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,1290" EndPnt="1510,1350" Length="0" Context="Q:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,1370" EndPnt="1510,1430" Length="0" Context="COS:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1530,1630" EndPnt="1830,1690" Length="0" Context="主变低" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,1710" EndPnt="1510,1770" Length="0" Context="Ia:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,1790" EndPnt="1510,1850" Length="0" Context="P:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,1870" EndPnt="1510,1930" Length="0" Context="Q:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,1950" EndPnt="1510,2010" Length="0" Context="COS:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="720,1630" EndPnt="850,1690" Length="0" Context="厂用变" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="550,1710" EndPnt="700,1770" Length="0" Context="Ia:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="550,1790" EndPnt="700,1850" Length="0" Context="P:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="550,1870" EndPnt="700,1930" Length="0" Context="Q:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="550,1950" EndPnt="700,2010" Length="0" Context="COS:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="146,2152" EndPnt="396,2212" Length="0" Context="1F机组" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="50,2230" EndPnt="130,2290" Length="0" Context="Uab:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="50,2310" EndPnt="130,2370" Length="0" Context="Ia:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="50,2390" EndPnt="130,2450" Length="0" Context="P:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="50,2470" EndPnt="130,2530" Length="0" Context="Q:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="50,2550" EndPnt="130,2610" Length="0" Context="COS:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="840,2150" EndPnt="1000,2210" Length="0" Context="2F机组" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="700,2230" EndPnt="820,2290" Length="0" Context="Uab:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="700,2310" EndPnt="820,2370" Length="0" Context="Ia:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="700,2390" EndPnt="820,2450" Length="0" Context="P:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="700,2470" EndPnt="820,2530" Length="0" Context="Q:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="700,2550" EndPnt="820,2610" Length="0" Context="COS:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1530,2150" EndPnt="1700,2210" Length="0" Context="3F机组" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,2230" EndPnt="1510,2290" Length="0" Context="Uab:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,2310" EndPnt="1510,2370" Length="0" Context="Ia:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,2390" EndPnt="1510,2450" Length="0" Context="P:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,2470" EndPnt="1510,2530" Length="0" Context="Q:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="1430,2550" EndPnt="1510,2610" Length="0" Context="COS:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="46,886" EndPnt="156,926" Length="0" Context="电压:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="54,1966" EndPnt="164,2006" Length="0" Context="电压:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="150,1176" EndPnt="300,1220" Length="0" Context="前池水位:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+                <Text StartPnt="150,1280" EndPnt="300,1332" Length="0" Context="进水水位:" FontSize="28" TextColor="0,128,128" BackColor="0,0,0" AlignType="0" />
+            </TextPara>
+            <ArcPara />
+            <RectPara />
+            <CirclePara />
+            <LinePara>
+                <Line StartPnt="1180,100" EndPnt="1180,300" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1180,400" EndPnt="1180,500" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1180,650" EndPnt="1180,750" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1180,850" EndPnt="1180,950" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1180,200" EndPnt="1330,200" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1330,200" EndPnt="1330,230" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1180,450" EndPnt="1330,450" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1330,450" EndPnt="1330,480" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1180,700" EndPnt="1330,700" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1330,700" EndPnt="1330,730" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1180,100" EndPnt="1150,150" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1180,100" EndPnt="1210,150" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1880,100" EndPnt="1880,300" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1880,400" EndPnt="1880,500" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1880,650" EndPnt="1880,750" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1880,850" EndPnt="1880,950" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1880,200" EndPnt="2030,200" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="2030,200" EndPnt="2030,230" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1880,450" EndPnt="2030,450" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="2030,450" EndPnt="2030,480" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1880,700" EndPnt="2030,700" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="2030,700" EndPnt="2030,730" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1880,100" EndPnt="1850,150" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1880,100" EndPnt="1910,150" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="500,100" EndPnt="500,300" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="500,400" EndPnt="500,500" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="500,650" EndPnt="500,750" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="500,850" EndPnt="500,950" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="500,200" EndPnt="650,200" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="650,200" EndPnt="650,230" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="500,450" EndPnt="650,450" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="650,450" EndPnt="650,480" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="500,700" EndPnt="650,700" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="650,700" EndPnt="650,730" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="500,100" EndPnt="470,150" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="500,100" EndPnt="530,150" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="50,950" EndPnt="2110,950" LineWidth="10" LineColor="255,0,0" />
+                <Line StartPnt="1180,950" EndPnt="1180,980" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1180,1080" EndPnt="1180,1130" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1180,1280" EndPnt="1180,1330" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1180,1430" EndPnt="1180,1450" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1180,1650" EndPnt="1180,1680" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="1180,1705" EndPnt="1180,1755" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="1180,1905" EndPnt="1180,1955" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="1180,1980" EndPnt="1180,2030" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="50,2030" EndPnt="2110,2030" LineWidth="10" LineColor="0,0,255" />
+                <Line StartPnt="1180,1105" EndPnt="1030,1105" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1030,1105" EndPnt="1030,1135" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1120,1500" EndPnt="1030,1500" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1030,1500" EndPnt="1030,1530" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1180,1305" EndPnt="1330,1305" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="1330,1305" EndPnt="1330,1335" LineWidth="3" LineColor="255,0,0" />
+                <Line StartPnt="500,1600" EndPnt="500,1680" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="500,1705" EndPnt="500,1755" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="500,1905" EndPnt="500,1955" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="500,1980" EndPnt="500,2030" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="500,1640" EndPnt="350,1640" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="350,1640" EndPnt="350,1670" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="500,2030" EndPnt="500,2075" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="500,2100" EndPnt="500,2150" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="500,2300" EndPnt="500,2350" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="500,2375" EndPnt="500,2550" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="1180,2030" EndPnt="1180,2075" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="1180,2100" EndPnt="1180,2150" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="1180,2300" EndPnt="1180,2350" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="1180,2375" EndPnt="1180,2550" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="1880,2030" EndPnt="1880,2075" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="1880,2100" EndPnt="1880,2150" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="1880,2300" EndPnt="1880,2350" LineWidth="3" LineColor="0,0,255" />
+                <Line StartPnt="1880,2375" EndPnt="1880,2550" LineWidth="3" LineColor="0,0,255" />
+            </LinePara>
+            <PicturePara />
+        </GraphPara>
+        <ElementPara>
+            <Element StartPnt="470,1480" EndPnt="530,1600" Name="变压器" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="6" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara>
+                    <Circle StartPnt="10,10" EndPnt="990,600" LineWidth="3" FillSign="0" LineColor="0,0,255" FillColor="0,0,0" />
+                    <Circle StartPnt="10,400" EndPnt="990,990" LineWidth="3" FillSign="0" LineColor="0,0,255" FillColor="0,0,0" />
+                </CirclePara>
+                <LinePara>
+                    <Line StartPnt="500,305" EndPnt="500,510" LineWidth="3" LineColor="0,0,255" />
+                    <Line StartPnt="500,305" EndPnt="200,160" LineWidth="3" LineColor="0,0,255" />
+                    <Line StartPnt="500,305" EndPnt="800,160" LineWidth="3" LineColor="0,0,255" />
+                    <Line StartPnt="500,695" EndPnt="500,890" LineWidth="3" LineColor="0,0,255" />
+                    <Line StartPnt="500,695" EndPnt="200,540" LineWidth="3" LineColor="0,0,255" />
+                    <Line StartPnt="500,695" EndPnt="800,540" LineWidth="3" LineColor="0,0,255" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+            <Element StartPnt="990,1235" EndPnt="1070,1315" Name="接地符" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara />
+                <LinePara>
+                    <Line StartPnt="500,0" EndPnt="500,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="160,500" EndPnt="840,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="270,650" EndPnt="730,650" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="350,800" EndPnt="650,800" LineWidth="3" LineColor="128,128,128" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+            <Element StartPnt="990,1630" EndPnt="1070,1710" Name="接地符" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara />
+                <LinePara>
+                    <Line StartPnt="500,0" EndPnt="500,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="160,500" EndPnt="840,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="270,650" EndPnt="730,650" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="350,800" EndPnt="650,800" LineWidth="3" LineColor="128,128,128" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+            <Element StartPnt="310,1770" EndPnt="390,1850" Name="接地符" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara />
+                <LinePara>
+                    <Line StartPnt="500,0" EndPnt="500,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="160,500" EndPnt="840,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="270,650" EndPnt="730,650" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="350,800" EndPnt="650,800" LineWidth="3" LineColor="128,128,128" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+            <Element StartPnt="1290,1435" EndPnt="1370,1515" Name="接地符" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara />
+                <LinePara>
+                    <Line StartPnt="500,0" EndPnt="500,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="160,500" EndPnt="840,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="270,650" EndPnt="730,650" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="350,800" EndPnt="650,800" LineWidth="3" LineColor="128,128,128" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+            <Element StartPnt="1290,330" EndPnt="1370,410" Name="接地符" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara />
+                <LinePara>
+                    <Line StartPnt="500,0" EndPnt="500,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="160,500" EndPnt="840,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="270,650" EndPnt="730,650" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="350,800" EndPnt="650,800" LineWidth="3" LineColor="128,128,128" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+            <Element StartPnt="1290,580" EndPnt="1370,660" Name="接地符" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara />
+                <LinePara>
+                    <Line StartPnt="500,0" EndPnt="500,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="160,500" EndPnt="840,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="270,650" EndPnt="730,650" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="350,800" EndPnt="650,800" LineWidth="3" LineColor="128,128,128" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+            <Element StartPnt="1290,830" EndPnt="1370,910" Name="接地符" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara />
+                <LinePara>
+                    <Line StartPnt="500,0" EndPnt="500,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="160,500" EndPnt="840,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="270,650" EndPnt="730,650" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="350,800" EndPnt="650,800" LineWidth="3" LineColor="128,128,128" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+            <Element StartPnt="1990,330" EndPnt="2070,410" Name="接地符" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara />
+                <LinePara>
+                    <Line StartPnt="500,0" EndPnt="500,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="160,500" EndPnt="840,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="270,650" EndPnt="730,650" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="350,800" EndPnt="650,800" LineWidth="3" LineColor="128,128,128" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+            <Element StartPnt="1990,580" EndPnt="2070,660" Name="接地符" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara />
+                <LinePara>
+                    <Line StartPnt="500,0" EndPnt="500,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="160,500" EndPnt="840,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="270,650" EndPnt="730,650" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="350,800" EndPnt="650,800" LineWidth="3" LineColor="128,128,128" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+            <Element StartPnt="1990,830" EndPnt="2070,910" Name="接地符" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara />
+                <LinePara>
+                    <Line StartPnt="500,0" EndPnt="500,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="160,500" EndPnt="840,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="270,650" EndPnt="730,650" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="350,800" EndPnt="650,800" LineWidth="3" LineColor="128,128,128" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+            <Element StartPnt="610,330" EndPnt="690,410" Name="接地符" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara />
+                <LinePara>
+                    <Line StartPnt="500,0" EndPnt="500,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="160,500" EndPnt="840,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="270,650" EndPnt="730,650" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="350,800" EndPnt="650,800" LineWidth="3" LineColor="128,128,128" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+            <Element StartPnt="610,580" EndPnt="690,660" Name="接地符" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara />
+                <LinePara>
+                    <Line StartPnt="500,0" EndPnt="500,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="160,500" EndPnt="840,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="270,650" EndPnt="730,650" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="350,800" EndPnt="650,800" LineWidth="3" LineColor="128,128,128" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+            <Element StartPnt="610,830" EndPnt="690,910" Name="接地符" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara />
+                <LinePara>
+                    <Line StartPnt="500,0" EndPnt="500,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="160,500" EndPnt="840,500" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="270,650" EndPnt="730,650" LineWidth="3" LineColor="128,128,128" />
+                    <Line StartPnt="350,800" EndPnt="650,800" LineWidth="3" LineColor="128,128,128" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+            <Element StartPnt="1130,1450" EndPnt="1230,1650" Name="变压器" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="6" PictureNum="0">
+                <TextPara />
+                <ArcPara />
+                <RectPara />
+                <CirclePara>
+                    <Circle StartPnt="10,10" EndPnt="990,600" LineWidth="3" FillSign="0" LineColor="255,0,0" FillColor="0,0,0" />
+                    <Circle StartPnt="10,400" EndPnt="990,990" LineWidth="3" FillSign="0" LineColor="0,0,255" FillColor="0,0,0" />
+                </CirclePara>
+                <LinePara>
+                    <Line StartPnt="300,100" EndPnt="300,500" LineWidth="3" LineColor="255,0,0" />
+                    <Line StartPnt="300,100" EndPnt="800,300" LineWidth="3" LineColor="255,0,0" />
+                    <Line StartPnt="300,500" EndPnt="800,300" LineWidth="3" LineColor="255,0,0" />
+                    <Line StartPnt="500,695" EndPnt="500,500" LineWidth="3" LineColor="0,0,255" />
+                    <Line StartPnt="500,695" EndPnt="200,850" LineWidth="3" LineColor="0,0,255" />
+                    <Line StartPnt="500,695" EndPnt="800,850" LineWidth="3" LineColor="0,0,255" />
+                </LinePara>
+                <PicturePara />
+            </Element>
+        </ElementPara>
+        <StateComptPara>
+            <StateCompt StationID="5" GroupIndex="0" DataIndex="26" StateNum="6" ShowType="6" DefaultValue="0">
+                <Element StartPnt="1750,2538" EndPnt="2010,2788" Name="3F水轮机静止" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="300,100" EndPnt="700,500" LineWidth="3" LineColor="0,255,0" StartAngle="0" EndAngle="0" />
+                        <Arc StartPnt="300,500" EndPnt="700,900" LineWidth="3" LineColor="0,255,0" StartAngle="0" EndAngle="0" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="0,255,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1750,2538" EndPnt="2010,2788" Name="水轮机运动1" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="300,100" EndPnt="700,500" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                        <Arc StartPnt="300,500" EndPnt="700,900" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="255,0,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1750,2538" EndPnt="2010,2788" Name="水轮机运动2" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="442,158" EndPnt="842,558" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                        <Arc StartPnt="158,442" EndPnt="558,842" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="255,0,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1750,2538" EndPnt="2010,2788" Name="水轮机运动3" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="500,300" EndPnt="900,700" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                        <Arc StartPnt="100,300" EndPnt="500,700" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="255,0,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1750,2538" EndPnt="2010,2788" Name="水轮机运动4" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="442,442" EndPnt="842,842" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                        <Arc StartPnt="158,158" EndPnt="558,558" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="255,0,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1750,2538" EndPnt="2010,2788" Name="水轮机无效" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="300,100" EndPnt="700,500" LineWidth="3" LineColor="128,128,128" StartAngle="128" EndAngle="128" />
+                        <Arc StartPnt="300,500" EndPnt="700,900" LineWidth="3" LineColor="128,128,128" StartAngle="128" EndAngle="128" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="128,128,128" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="5" GroupIndex="0" DataIndex="26" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1836,2134" EndPnt="1916,2284" Name="3F" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1836,2134" EndPnt="1916,2284" Name="3F" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1836,2134" EndPnt="1916,2284" Name="3F" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,0,255" FillColor="255,255,255" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="255" GroupIndex="255" DataIndex="255" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1830,2075" EndPnt="1930,2175" Name="3F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1830,2075" EndPnt="1930,2175" Name="3F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1830,2075" EndPnt="1930,2175" Name="3F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1830,2275" EndPnt="1930,2375" Name="3F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1830,2275" EndPnt="1930,2375" Name="3F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1830,2275" EndPnt="1930,2375" Name="3F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="5" GroupIndex="0" DataIndex="25" StateNum="6" ShowType="6" DefaultValue="0">
+                <Element StartPnt="1050,2538" EndPnt="1310,2788" Name="2F水轮机静止" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="300,100" EndPnt="700,500" LineWidth="3" LineColor="0,255,0" StartAngle="0" EndAngle="0" />
+                        <Arc StartPnt="300,500" EndPnt="700,900" LineWidth="3" LineColor="0,255,0" StartAngle="0" EndAngle="0" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="0,255,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1050,2538" EndPnt="1310,2788" Name="水轮机运动1" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="300,100" EndPnt="700,500" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                        <Arc StartPnt="300,500" EndPnt="700,900" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="255,0,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1050,2538" EndPnt="1310,2788" Name="水轮机运动2" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="442,158" EndPnt="842,558" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                        <Arc StartPnt="158,442" EndPnt="558,842" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="255,0,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1050,2538" EndPnt="1310,2788" Name="水轮机运动3" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="500,300" EndPnt="900,700" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                        <Arc StartPnt="100,300" EndPnt="500,700" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="255,0,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1050,2538" EndPnt="1310,2788" Name="水轮机运动4" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="442,442" EndPnt="842,842" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                        <Arc StartPnt="158,158" EndPnt="558,558" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="255,0,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1050,2538" EndPnt="1310,2788" Name="水轮机无效" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="300,100" EndPnt="700,500" LineWidth="3" LineColor="128,128,128" StartAngle="128" EndAngle="128" />
+                        <Arc StartPnt="300,500" EndPnt="700,900" LineWidth="3" LineColor="128,128,128" StartAngle="128" EndAngle="128" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="128,128,128" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="5" GroupIndex="0" DataIndex="25" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1140,2150" EndPnt="1220,2300" Name="2F" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1140,2150" EndPnt="1220,2300" Name="2F" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1140,2150" EndPnt="1220,2300" Name="2F" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,0,255" FillColor="255,255,255" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="255" GroupIndex="255" DataIndex="255" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1130,2075" EndPnt="1230,2175" Name="2F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,2075" EndPnt="1230,2175" Name="2F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,2075" EndPnt="1230,2175" Name="2F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1130,2275" EndPnt="1230,2375" Name="2F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,2275" EndPnt="1230,2375" Name="2F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,2275" EndPnt="1230,2375" Name="2F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="5" GroupIndex="0" DataIndex="24" StateNum="6" ShowType="6" DefaultValue="0">
+                <Element StartPnt="370,2546" EndPnt="630,2796" Name="1F水轮机静止" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="300,100" EndPnt="700,500" LineWidth="3" LineColor="0,255,0" StartAngle="0" EndAngle="0" />
+                        <Arc StartPnt="300,500" EndPnt="700,900" LineWidth="3" LineColor="0,255,0" StartAngle="0" EndAngle="0" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="0,255,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="370,2546" EndPnt="630,2796" Name="水轮机运动1" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="300,100" EndPnt="700,500" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                        <Arc StartPnt="300,500" EndPnt="700,900" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="255,0,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="370,2546" EndPnt="630,2796" Name="水轮机运动2" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="442,158" EndPnt="842,558" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                        <Arc StartPnt="158,442" EndPnt="558,842" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="255,0,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="370,2546" EndPnt="630,2796" Name="水轮机运动3" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="500,300" EndPnt="900,700" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                        <Arc StartPnt="100,300" EndPnt="500,700" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="255,0,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="370,2546" EndPnt="630,2796" Name="水轮机运动4" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="442,442" EndPnt="842,842" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                        <Arc StartPnt="158,158" EndPnt="558,558" LineWidth="3" LineColor="255,0,0" StartAngle="255" EndAngle="255" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="255,0,0" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="370,2546" EndPnt="630,2796" Name="水轮机无效" TextNum="0" ArcNum="2" RectNum="0" CircleNum="1" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara>
+                        <Arc StartPnt="300,100" EndPnt="700,500" LineWidth="3" LineColor="128,128,128" StartAngle="128" EndAngle="128" />
+                        <Arc StartPnt="300,500" EndPnt="700,900" LineWidth="3" LineColor="128,128,128" StartAngle="128" EndAngle="128" />
+                    </ArcPara>
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="0" LineColor="128,128,128" FillColor="255,255,192" />
+                    </CirclePara>
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="5" GroupIndex="0" DataIndex="24" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="460,2146" EndPnt="540,2296" Name="1F" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="460,2146" EndPnt="540,2296" Name="1F" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="460,2146" EndPnt="540,2296" Name="1F" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,0,255" FillColor="255,255,255" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="255" GroupIndex="255" DataIndex="255" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="450,2075" EndPnt="550,2175" Name="1F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="450,2075" EndPnt="550,2175" Name="1F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="450,2075" EndPnt="550,2175" Name="1F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="450,2275" EndPnt="550,2375" Name="1F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="450,2275" EndPnt="550,2375" Name="1F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="450,2275" EndPnt="550,2375" Name="1F手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="300,1670" EndPnt="400,1770" Name="厂用变刀闸" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="300,1670" EndPnt="400,1770" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="300,1670" EndPnt="400,1770" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="5" GroupIndex="0" DataIndex="35" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="460,1749" EndPnt="540,1899" Name="厂用变" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="460,1749" EndPnt="540,1899" Name="厂用变" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="460,1749" EndPnt="540,1899" Name="厂用变" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,0,255" FillColor="255,255,255" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="255" GroupIndex="255" DataIndex="255" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="450,1680" EndPnt="550,1780" Name="厂用变手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="450,1680" EndPnt="550,1780" Name="厂用变手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="450,1680" EndPnt="550,1780" Name="厂用变手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="450,1880" EndPnt="550,1980" Name="厂用变手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="450,1880" EndPnt="550,1980" Name="厂用变手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="450,1880" EndPnt="550,1980" Name="厂用变手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1130,1680" EndPnt="1230,1780" Name="主变低手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,1680" EndPnt="1230,1780" Name="主变低手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,1680" EndPnt="1230,1780" Name="主变低手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,0" EndPnt="150,350" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,0" EndPnt="850,350" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,250" EndPnt="150,600" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,250" EndPnt="850,600" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1130,1880" EndPnt="1230,1980" Name="主变低手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="0,255,0" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,1880" EndPnt="1230,1980" Name="主变低手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="255,0,0" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,1880" EndPnt="1230,1980" Name="主变低手车" TextNum="0" ArcNum="0" RectNum="0" CircleNum="0" LineNum="4" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara />
+                    <LinePara>
+                        <Line StartPnt="500,1000" EndPnt="150,650" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,1000" EndPnt="850,650" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,750" EndPnt="150,400" LineWidth="3" LineColor="128,128,128" />
+                        <Line StartPnt="500,750" EndPnt="850,400" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="980,1135" EndPnt="1080,1235" Name="1101-甲丁" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="980,1135" EndPnt="1080,1235" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="980,1135" EndPnt="1080,1235" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="980,1530" EndPnt="1080,1630" Name="中丁" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="980,1530" EndPnt="1080,1630" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="980,1530" EndPnt="1080,1630" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1280,1335" EndPnt="1380,1435" Name="1101-丙丁" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1280,1335" EndPnt="1380,1435" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1280,1335" EndPnt="1380,1435" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="5" GroupIndex="0" DataIndex="23" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1140,1731" EndPnt="1220,1881" Name="主变低" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1140,1731" EndPnt="1220,1881" Name="断路器合" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1140,1731" EndPnt="1220,1881" Name="断路器无效" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,0,255" FillColor="255,255,255" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="5" GroupIndex="0" DataIndex="18" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1140,1130" EndPnt="1220,1280" Name="主变高" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1140,1130" EndPnt="1220,1280" Name="断路器合" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1140,1130" EndPnt="1220,1280" Name="断路器无效" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,0,255" FillColor="255,255,255" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="255" GroupIndex="255" DataIndex="255" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1130,1330" EndPnt="1230,1430" Name="1101-丙" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,1330" EndPnt="1230,1430" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,1330" EndPnt="1230,1430" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1130,980" EndPnt="1230,1080" Name="1101-甲" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,980" EndPnt="1230,1080" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,980" EndPnt="1230,1080" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1280,230" EndPnt="1380,330" Name="1116-丙丁1" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1280,230" EndPnt="1380,330" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1280,230" EndPnt="1380,330" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1280,480" EndPnt="1380,580" Name="1116-丙丁" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1280,480" EndPnt="1380,580" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1280,480" EndPnt="1380,580" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1280,730" EndPnt="1380,830" Name="1116-甲丁" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1280,730" EndPnt="1380,830" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1280,730" EndPnt="1380,830" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1130,300" EndPnt="1230,400" Name="1116-丙" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,300" EndPnt="1230,400" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,300" EndPnt="1230,400" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1130,750" EndPnt="1230,850" Name="1116-甲" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,750" EndPnt="1230,850" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1130,750" EndPnt="1230,850" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="5" GroupIndex="0" DataIndex="12" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1140,500" EndPnt="1220,650" Name="1116" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1140,500" EndPnt="1220,650" Name="断路器合" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1140,500" EndPnt="1220,650" Name="断路器无效" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,0,255" FillColor="255,255,255" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="255" GroupIndex="255" DataIndex="255" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1980,230" EndPnt="2080,330" Name="1112-丙丁1" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1980,230" EndPnt="2080,330" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1980,230" EndPnt="2080,330" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1978,482" EndPnt="2078,582" Name="1112-丙丁" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1978,482" EndPnt="2078,582" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1978,482" EndPnt="2078,582" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1980,730" EndPnt="2080,830" Name="1112-甲丁" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1980,730" EndPnt="2080,830" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1980,730" EndPnt="2080,830" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1830,300" EndPnt="1930,400" Name="1112-丙" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1830,300" EndPnt="1930,400" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1830,300" EndPnt="1930,400" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1830,750" EndPnt="1930,850" Name="1112-甲" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1830,750" EndPnt="1930,850" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1830,750" EndPnt="1930,850" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="5" GroupIndex="0" DataIndex="6" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="1840,500" EndPnt="1920,650" Name="1112" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1840,500" EndPnt="1920,650" Name="断路器合" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="1840,500" EndPnt="1920,650" Name="断路器无效" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,0,255" FillColor="255,255,255" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="255" GroupIndex="255" DataIndex="255" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="600,230" EndPnt="700,330" Name="1113-丙丁1" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="600,230" EndPnt="700,330" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="600,230" EndPnt="700,330" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="600,480" EndPnt="700,580" Name="1113-丙丁" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="600,480" EndPnt="700,580" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="600,480" EndPnt="700,580" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="600,730" EndPnt="700,830" Name="1113-甲丁" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="600,730" EndPnt="700,830" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="600,730" EndPnt="700,830" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="450,300" EndPnt="550,400" Name="1113-丙" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="450,300" EndPnt="550,400" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="450,300" EndPnt="550,400" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="128" GroupIndex="128" DataIndex="128" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="450,750" EndPnt="550,850" Name="1113-甲" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="0,255,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="450,750" EndPnt="550,850" Name="刀闸合" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="500,100" EndPnt="500,900" LineWidth="3" LineColor="255,0,0" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="450,750" EndPnt="550,850" Name="刀闸无效" TextNum="0" ArcNum="0" RectNum="0" CircleNum="2" LineNum="1" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara />
+                    <CirclePara>
+                        <Circle StartPnt="400,0" EndPnt="600,200" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                        <Circle StartPnt="400,800" EndPnt="600,1000" LineWidth="3" FillSign="1" LineColor="128,128,128" FillColor="128,128,128" />
+                    </CirclePara>
+                    <LinePara>
+                        <Line StartPnt="200,100" EndPnt="500,900" LineWidth="3" LineColor="128,128,128" />
+                    </LinePara>
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+            <StateCompt StationID="5" GroupIndex="0" DataIndex="0" StateNum="3" ShowType="3" DefaultValue="0">
+                <Element StartPnt="460,500" EndPnt="540,650" Name="1113" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,255,0" FillColor="0,255,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="460,500" EndPnt="540,650" Name="断路器合" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="255,0,0" FillColor="255,0,0" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+                <Element StartPnt="460,500" EndPnt="540,650" Name="断路器无效" TextNum="0" ArcNum="0" RectNum="1" CircleNum="0" LineNum="0" PictureNum="0">
+                    <TextPara />
+                    <ArcPara />
+                    <RectPara>
+                        <Rect StartPnt="0,0" EndPnt="1000,1000" LineWidth="3" FillSign="1" LineColor="0,0,255" FillColor="255,255,255" />
+                    </RectPara>
+                    <CirclePara />
+                    <LinePara />
+                    <PicturePara />
+                </Element>
+            </StateCompt>
+        </StateComptPara>
+        <ValueComptPara>
+            <ValueCompt StartPnt="140,222" EndPnt="500,282" DataUnit="kV" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="10" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="140,307" EndPnt="500,367" DataUnit="A" DecimalPlace="3" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="11" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="140,390" EndPnt="500,450" DataUnit="kW" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="12" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="140,474" EndPnt="500,534" DataUnit="kVar" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="13" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="140,550" EndPnt="500,610" DataUnit="" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="14" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="828,312" EndPnt="972,372" DataUnit="A" DecimalPlace="3" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="1" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="830,390" EndPnt="1190,450" DataUnit="kW" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="2" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="830,474" EndPnt="1190,534" DataUnit="kVar" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="3" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="830,547" EndPnt="1190,607" DataUnit="" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="4" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1002,267" EndPnt="826,219" DataUnit="kV" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="0" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1512,229" EndPnt="1712,289" DataUnit="A" DecimalPlace="3" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="5" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1512,386" EndPnt="1712,446" DataUnit="kW" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="2" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1520,470" EndPnt="1720,530" DataUnit="kVar" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="8" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1520,554" EndPnt="1720,614" DataUnit="" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="9" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1520,1127" EndPnt="1920,1187" DataUnit="A" DecimalPlace="3" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="16" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1520,1210" EndPnt="1920,1270" DataUnit="kW" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="17" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1520,1290" EndPnt="1920,1350" DataUnit="kVar" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="18" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1520,1367" EndPnt="1920,1427" DataUnit="" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="19" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1520,1707" EndPnt="1920,1767" DataUnit="A" DecimalPlace="3" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="21" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1520,1790" EndPnt="1920,1850" DataUnit="kW" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="22" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1520,1870" EndPnt="1920,1930" DataUnit="kVar" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="23" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1520,1949" EndPnt="1920,2009" DataUnit="" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="24" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="710,1679" EndPnt="850,1739" DataUnit="A" DecimalPlace="3" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="41" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="710,1790" EndPnt="950,1850" DataUnit="kW" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="42" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="706,1866" EndPnt="946,1926" DataUnit="kVar" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="43" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="710,1949" EndPnt="850,2009" DataUnit="" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="44" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="146,2229" EndPnt="336,2274" DataUnit="kV" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="25" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="154,2297" EndPnt="514,2357" DataUnit="A" DecimalPlace="3" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="26" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="140,2390" EndPnt="500,2450" DataUnit="kW" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="28" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="140,2470" EndPnt="500,2530" DataUnit="kVar" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="28" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="144,2550" EndPnt="504,2610" DataUnit="" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="29" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="826,2200" EndPnt="1086,2260" DataUnit="kV" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="30" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="830,2310" EndPnt="1190,2370" DataUnit="A" DecimalPlace="3" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="31" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="830,2375" EndPnt="1190,2435" DataUnit="kW" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="32" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="830,2455" EndPnt="1190,2515" DataUnit="kVar" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="33" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="830,2550" EndPnt="1190,2610" DataUnit="" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="34" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1518,2226" EndPnt="1718,2286" DataUnit="kV" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="35" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1524,2319" EndPnt="1924,2379" DataUnit="A" DecimalPlace="3" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="36" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1516,2390" EndPnt="1916,2450" DataUnit="kW" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="37" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1510,2480" EndPnt="1910,2540" DataUnit="kVar" DecimalPlace="1" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="38" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1522,2542" EndPnt="1922,2602" DataUnit="" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="39" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="184,892" EndPnt="504,932" DataUnit="kV" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="15" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="180,1962" EndPnt="500,2002" DataUnit="kV" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="20" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="322,1171" EndPnt="604,1229" DataUnit="米" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="45" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="320,1277" EndPnt="592,1321" DataUnit="米" DecimalPlace="2" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="46" AlignType="0" DefaultValue="0.000000" />
+            <ValueCompt StartPnt="1516,314" EndPnt="1716,374" DataUnit="" DecimalPlace="0" FontSize="28" TextColor="0,128,255" BackColor="0,0,0" StationID="5" GroupIndex="0" DataIndex="6" AlignType="0" DefaultValue="0.000000" />
+        </ValueComptPara>
+        <ButtonPara />
+        <InvisibleBtnPara />
+    </PagePara>
+</Screen>

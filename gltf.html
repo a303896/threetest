@@ -26,8 +26,22 @@
     document.body.appendChild(renderer.domElement);
 
     const loader = new GLTFLoader();
-    const model = './models/test.glb';
+    const model = './models/test1.glb';
+    // const model = './models/test2.glb';
     loader.load(model, function(gltf) {
+      console.log('控制台查看加载gltf文件返回的对象结构',gltf);
+      console.log('gltf对象场景属性',gltf.scene);
+      // console.log('object3d model', gltf.scene.children[0].geometry);
+      for(const obj of gltf.scene.children) {
+        // console.log('obj', obj);
+        obj.traverseVisible(function(object) {
+          if(object instanceof THREE.Mesh) {
+            // console.log('object3D geometry', object.geometry);
+            //打印顶点坐标
+            console.log('object3D 顶点', object.geometry.attributes.position);
+          }
+        });
+      }
       // gltf.scene.traverse(function(child) {
       //   if(child.isMesh) {
       //     child.material.emissive = child.material.color;

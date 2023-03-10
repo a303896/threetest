@@ -1,0 +1,156 @@
+<html>
+  <body>
+    <div style="display:flex;width: 1200px;">
+      <div style="width:20%;">
+        <div id="inputs">
+          坐标1：<input type="text" id="point1" value="-10, -10"/>
+          坐标2：<input type="text" id="point2" value="-10, 10"/>
+          坐标3：<input type="text" id="point3" value="10, 10"/>
+          坐标4：<input type="text" id="point4" value="10, -10"/>
+        </div>
+        <button id="btn_draw" >绘制</button>
+        <button id="btn_revolve" >旋转</button>
+        <button id="btn_clear" >清理</button>
+        <button id="btn_xy" >增加坐标</button>
+        <input type="checkbox" id="wireframe" />网格
+      </div>
+      <div id="container" style="width:80%; height: 800px;"></div>
+    </div>
+  </body>
+</html>
+
+<script type="importmap">
+  {
+    "imports": {
+      "three": "./build/three.module.js",
+      "three/addons/": "./examples/jsm/"
+    }
+  }
+</script>
+<script type="module">
+  import * as THREE from 'three';
+  import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+
+  // let vector2Arr = [];
+  let obj;
+  const container = document.querySelector('#container');
+  const scene = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(40, container.clientWidth / container.clientHeight, 0.1, 1000);
+  camera.position.set(0, 0, 100);
+  camera.lookAt(0, 0, 0);
+
+  //创建渲染器
+  const renderer = new THREE.WebGLRenderer();
+  //设置渲染器尺寸
+  renderer.setSize(container.clientWidth, container.clientHeight);
+  //启用物理上正确的光照强度计算
+  renderer.useLegacyLights = true;
+  container.append(renderer.domElement);
+
+  draw();
+
+  const controls = new OrbitControls(camera, renderer.domElement);
+  controls.addEventListener('change', function () {
+    renderer.render(scene, camera); //执行渲染操作
+  });
+
+  // camera.position.z = 5;
+  //自动旋转
+  function revolve() {
+    requestAnimationFrame(revolve);
+    obj.rotation.x += 0.01;
+    obj.rotation.y += 0.01;
+    renderer.render(scene, camera);
+  }
+
+  // renderer.render(scene, camera);
+  function draw() {
+    //清除平面图坐标
+    // vector2Arr = [];
+    //清除场景内已有对象
+    clear();
+    const inputArr = document.getElementsByTagName("input");
+    const shape = new THREE.Shape();
+    for(let i = 0; i < inputArr.length; i++) {
+      if(inputArr[i].type === "text" && inputArr[i].value !== "") {
+        let val = inputArr[i].value;
+        let vector2 = val.split(",");
+        let x = parseFloat(vector2[0]);
+        let y = parseFloat(vector2[1]);
+        console.log("x="+x+"，y="+y);
+        // vector2Arr.push(new THREE.Vector2(x, y);
+        //手动顺序绘制
+        if(i == 0) {
+          //画笔移动至起始点
+          shape.moveTo(x, y);
+        }else {
+          //x,y坐标之间连线
+          shape.lineTo(x, y);
+        }
+      }
+    }
+    // Shape表示一个平面多边形轮廓
+    // const shape = new THREE.Shape([
+    //     // 按照特定顺序，依次书写多边形顶点坐标
+    //     new THREE.Vector2(-10, -10), //多边形起点
+    //     new THREE.Vector2(-10, 10),
+    //     new THREE.Vector2(10, 10),
+    //     new THREE.Vector2(10, -10),
+    // ]);
+    // const shape = new THREE.Shape(vector2Arr);
+
+    const geometry = new THREE.ExtrudeGeometry(
+      shape, //二维轮廓
+      {
+        steps: 5, 
+        depth: 20, //拉伸长度
+      }
+    );
+
+    // const material = new THREE.MeshBasicMaterial({ color: 0x00ff00 });
+    const material = makeMaterial();
+    obj = new THREE.Mesh(geometry, material);
+    console.log("obj", obj);
+    scene.add(obj);
+    renderer.render(scene, camera);
+  }
+
+  function makeMaterial() {
+    const wireframe = document.querySelector('#wireframe').checked;
+    const material = new THREE.MeshBasicMaterial({
+      color: 0x00ff00,
+      wireframe: wireframe
+    });
+    return material;
+  }
+
+  function clear() {
+    //遍历所有对象 并清除
+    // scene.traverse(function(child) {
+    //   if(child.type === "Mesh") {
+    //     child.geometry.dispose();
+    //     child.material.dispose();
+    //   }
+    // });
+    //遍历所有对象 并清除
+    for(const child of scene.children) {
+      if(child.type === "Mesh") {
+        child.geometry.dispose();
+        child.material.dispose();
+        scene.remove(child);
+      }
+    }
+    //清理后重新渲染
+    renderer.render(scene, camera);
+  }
+
+  document.querySelector('#btn_draw').addEventListener("click", (event) => { draw(); });
+  document.querySelector('#btn_revolve').addEventListener("click", (event) => { revolve(); });
+  document.querySelector('#btn_clear').addEventListener("click", (event) => { clear(); });
+  document.querySelector('#btn_xy').addEventListener("click", (event) => {
+    let len = document.getElementsByTagName('input').length + 1;
+    let content = document.querySelector('#inputs').innerHTML;
+    content += `坐标${len}：<input type="text" />`;
+    document.querySelector('#inputs').innerHTML = content;
+  });
+</script>
